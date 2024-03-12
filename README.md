@@ -5,7 +5,7 @@ Welcome to My GitHub Repository!
 
 <h4> Data Visualization Projects:</h4>
 
-- <b> Data visualization using Excel</b>
+- <b> Data visualization using Power BI</b>
   - [Call Center Dashboard]()
 ## Skills
 
